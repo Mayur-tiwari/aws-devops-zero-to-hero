@@ -1,7 +1,7 @@
 #!/bin/bash
 set -e
 
-# Pulling the Docker image from Docker Hub
+# Pull the Docker image from Docker Hub
 docker pull mayurtiwari/simple-python-app
 
 # Run the Docker image as a container
